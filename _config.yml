@@ -1,0 +1,12 @@
+title: Minimal
+project_name: minimal
+description: >
+  A minimal theme
+
+repository_url: https://github.com/cdrage/minimal
+repository_shorthand: cdrage/minimal
+
+author_name: Charlie Drage
+author_url: https://github.com/cdrage
+
+markdown: kramdown
